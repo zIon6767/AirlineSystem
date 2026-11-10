@@ -33,6 +33,15 @@ The `src` folder contains the Java source files:
 - `FlightMapApp.java`
 - `GraphTraversal.java`
 
+## Installation and Setup
+
+1. Install JDK 20 or a compatible Java version.
+2. Install Apache NetBeans IDE.
+3. Clone or download this repository.
+4. Open the project in NetBeans.
+5. Ensure the JavaFX libraries in the `lib` folder are configured.
+6. Run `airlinesystem.FlightMapApp` to start the application.
+
 ## Academic Project
 
 Developed as part of a group programming assignment.
